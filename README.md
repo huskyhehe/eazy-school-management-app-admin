@@ -1,1 +1,1 @@
-# eazy-school-management-app-admin
+# Eazy School Management App - Admin Server
